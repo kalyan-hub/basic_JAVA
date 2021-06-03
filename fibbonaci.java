@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 class fibonacci
 {
-	 public static void main(String args[])
+	 public static void main(String args[]) 
  	{
   		int num,sum=0;
 		System.out.print("enter a value:");
